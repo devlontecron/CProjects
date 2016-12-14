@@ -1,3 +1,5 @@
+//reads in a bit file and reads the data of new students, their declared major, courses, names, etc. to the console. 
+
 
 #include <stdio.h>
 #include <string.h>
