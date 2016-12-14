@@ -2,6 +2,8 @@
 prof. Mayer
 TCSS 333
 Spring Quarter
+
+reads in a file which collects and organizes data of customers order and outputs to another file.  
 */
 
 #include <stdio.h>
