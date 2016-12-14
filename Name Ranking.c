@@ -2,6 +2,10 @@
 TCSS 333
 Prof Mayer
 Spring 2016
+
+Receives an in file of most common names and outputs an .xlc file that organizes and ranks most common names over multiple input files 
+
+
 */
 
 #include <stdio.h>
