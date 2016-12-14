@@ -2,6 +2,9 @@
 TCSS 333
 Prof Mayer
 Spring 2016
+
+An interactive program that reads and writes integers in decimal, binary, and hex.
+The user is asked for what type of input or what type of output by key commands. The program runs till the user types “q” 
 */
 
 #include <stdio.h>
