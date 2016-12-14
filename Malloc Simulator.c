@@ -1,3 +1,5 @@
+//Mimics the function of C malloc by having a pre-defined memory allotted which my_malloc uses. 
+
 #include "mallok.h"
 #include <stdlib.h>
 #include <stdio.h>
