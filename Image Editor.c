@@ -2,6 +2,8 @@
 TCSS 333
 Prof Mayer
 Spring 2016
+
+Reads in an image from file and manipulates each pixel to output a mirror image and an image repeated four times. 
 */
 
 #include <stdio.h>
