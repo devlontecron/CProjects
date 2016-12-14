@@ -1,3 +1,5 @@
+//Recives a decimal input that outputs to the console a step by step procedure of how the floating point value is stored / made in bits.
+
 #include <stdio.h>
 int j, signBool;
 unsigned int i, masky;
